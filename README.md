@@ -158,15 +158,15 @@ With this plugin, you can now create a dedicated QCP folder within your reposito
 
 -   [sf-decomposer](https://github.com/mcarvin8/sf-decomposer) ([@mcarvin8](https://github.com/mcarvin8))
 
-    Plugin to create smaller metadata files for version control and recombine them for deployments.
+    Decompose large metadata files into smaller ones for version control and recompose them for deployments.
 
 -   [apex-code-coverage-transformer](https://github.com/mcarvin8/apex-code-coverage-transformer) ([@mcarvin8](https://github.com/mcarvin8))
 
-    Plugin to create Apex code coverage files in SonarQube or Cobertura format.
+    Transform code coverage JSON files from the Salesforce CLI into SonarQube, Cobertura, or Clover format.
 
 -   [sf-package-combiner](https://github.com/mcarvin8/sf-package-combiner) ([@mcarvin8](https://github.com/mcarvin8))
 
-    Plugin to combine multiple manifest files (package.xml) into 1 for deployments.
+    Combine multiple manifest files (package.xml) into 1 for deployments.
 
 -   [apex-tests-list](https://github.com/renatoliveira/apex-test-list) ([@renatoliveira](https://github.com/renatoliveira))
 
